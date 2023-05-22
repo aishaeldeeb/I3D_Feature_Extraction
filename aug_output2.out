@@ -1,0 +1,882 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+Extract Features
+Received Pretrained model..
+vid num: 1
+
+Generating for augmented_data/non_anomaly/Delivery7_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 27.18424415588379.
+vid num: 2
+
+Generating for augmented_data/non_anomaly/Delivery8_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 29.194968461990356.
+vid num: 3
+
+Generating for augmented_data/non_anomaly/Normal5_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.381393671035767.
+vid num: 4
+
+Generating for augmented_data/non_anomaly/Delivery11_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (54, 10, 2048)
+done in 56.100306272506714.
+vid num: 5
+
+Generating for augmented_data/non_anomaly/Animal1_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 24.278839349746704.
+vid num: 6
+
+Generating for augmented_data/non_anomaly/Delivery4_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 20.61566948890686.
+vid num: 7
+
+Generating for augmented_data/non_anomaly/Delivery5_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.469333171844482.
+vid num: 8
+
+Generating for augmented_data/non_anomaly/delivery003_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 17.425442457199097.
+vid num: 9
+
+Generating for augmented_data/non_anomaly/MovingOut2_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 24.39955449104309.
+vid num: 10
+
+Generating for augmented_data/non_anomaly/Normal6_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 23.839272499084473.
+vid num: 11
+
+Generating for augmented_data/non_anomaly/Normal2_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 15.560666561126709.
+vid num: 12
+
+Generating for augmented_data/non_anomaly/delivery004_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.08332633972168.
+vid num: 13
+
+Generating for augmented_data/non_anomaly/Normal8_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.593799352645874.
+vid num: 14
+
+Generating for augmented_data/non_anomaly/Animal2_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 22.20399260520935.
+vid num: 15
+
+Generating for augmented_data/non_anomaly/delivery003_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 16.479565143585205.
+vid num: 16
+
+Generating for augmented_data/non_anomaly/MovingOut3_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 24.47159218788147.
+vid num: 17
+
+Generating for augmented_data/non_anomaly/delivery002_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 21.36295795440674.
+vid num: 18
+
+Generating for augmented_data/non_anomaly/Delivery5_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 23.799988508224487.
+vid num: 19
+
+Generating for augmented_data/non_anomaly/Normal7_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (9, 10, 2048)
+done in 9.786188125610352.
+vid num: 20
+
+Generating for augmented_data/non_anomaly/Normal8_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.423474311828613.
+vid num: 21
+
+Generating for augmented_data/non_anomaly/Delivery13_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 32.066107988357544.
+vid num: 22
+
+Generating for augmented_data/non_anomaly/Delivery12_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 27.919065952301025.
+vid num: 23
+
+Generating for augmented_data/non_anomaly/Normal4_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (12, 10, 2048)
+done in 12.506848096847534.
+vid num: 24
+
+Generating for augmented_data/non_anomaly/Delivery11_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (54, 10, 2048)
+done in 52.768810749053955.
+vid num: 25
+
+Generating for augmented_data/non_anomaly/delivery005_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 24.151907920837402.
+vid num: 26
+
+Generating for augmented_data/non_anomaly/Normal7_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (9, 10, 2048)
+done in 9.67725157737732.
+vid num: 27
+
+Generating for augmented_data/non_anomaly/delivery001_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 15.820103406906128.
+vid num: 28
+
+Generating for augmented_data/non_anomaly/Delivery9_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 18.346830368041992.
+vid num: 29
+
+Generating for augmented_data/non_anomaly/Normal4_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (12, 10, 2048)
+done in 14.274997234344482.
+vid num: 30
+
+Generating for augmented_data/non_anomaly/Delivery9_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 17.437577486038208.
+vid num: 31
+
+Generating for augmented_data/non_anomaly/MovingOut3_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 24.204599380493164.
+vid num: 32
+
+Generating for augmented_data/non_anomaly/Animal2_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 24.131896257400513.
+vid num: 33
+
+Generating for augmented_data/non_anomaly/Normal2_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 15.693500518798828.
+vid num: 34
+
+Generating for augmented_data/non_anomaly/Animal2_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 21.644708395004272.
+vid num: 35
+
+Generating for augmented_data/non_anomaly/Normal6_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 23.326106309890747.
+vid num: 36
+
+Generating for augmented_data/non_anomaly/Delivery12_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 28.02197241783142.
+vid num: 37
+
+Generating for augmented_data/non_anomaly/Normal2_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 15.117981195449829.
+vid num: 38
+
+Generating for augmented_data/non_anomaly/Delivery4_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 23.726020097732544.
+vid num: 39
+
+Generating for augmented_data/non_anomaly/Animal1_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 23.583755254745483.
+vid num: 40
+
+Generating for augmented_data/non_anomaly/delivery003_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 17.363500356674194.
+vid num: 41
+
+Generating for augmented_data/non_anomaly/MovingOut2_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 24.654496669769287.
+vid num: 42
+
+Generating for augmented_data/non_anomaly/delivery004_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 24.35232949256897.
+vid num: 43
+
+Generating for augmented_data/non_anomaly/Delivery3_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 19.112690210342407.
+vid num: 44
+
+Generating for augmented_data/non_anomaly/delivery005_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 21.92945623397827.
+vid num: 45
+
+Generating for augmented_data/non_anomaly/Delivery7_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 25.127777099609375.
+vid num: 46
+
+Generating for augmented_data/non_anomaly/Delivery11_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (54, 10, 2048)
+done in 53.73196029663086.
+vid num: 47
+
+Generating for augmented_data/non_anomaly/Delivery4_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 20.63620901107788.
+vid num: 48
+
+Generating for augmented_data/non_anomaly/Normal4_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (12, 10, 2048)
+done in 13.760808944702148.
+vid num: 49
+
+Generating for augmented_data/non_anomaly/delivery001_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 14.889079570770264.
+vid num: 50
+
+Generating for augmented_data/non_anomaly/Delivery10_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 17.77783465385437.
+vid num: 51
+
+Generating for augmented_data/non_anomaly/delivery002_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 21.91869616508484.
+vid num: 52
+
+Generating for augmented_data/non_anomaly/delivery001_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 16.14067053794861.
+vid num: 53
+
+Generating for augmented_data/non_anomaly/Delivery9_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 17.947842836380005.
+vid num: 54
+
+Generating for augmented_data/non_anomaly/delivery005_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 24.893623113632202.
+vid num: 55
+
+Generating for augmented_data/non_anomaly/Delivery3_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 17.828916311264038.
+vid num: 56
+
+Generating for augmented_data/non_anomaly/Delivery8_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 31.17587423324585.
+vid num: 57
+
+Generating for augmented_data/non_anomaly/MovingOut2_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 22.14686918258667.
+vid num: 58
+
+Generating for augmented_data/non_anomaly/Delivery13_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 30.50477385520935.
+vid num: 59
+
+Generating for augmented_data/non_anomaly/Delivery10_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 16.7042133808136.
+vid num: 60
+
+Generating for augmented_data/non_anomaly/Normal6_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 21.51982617378235.
+vid num: 61
+
+Generating for augmented_data/non_anomaly/Delivery13_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 30.381964206695557.
+vid num: 62
+
+Generating for augmented_data/non_anomaly/Normal5_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 13.929112195968628.
+vid num: 63
+
+Generating for augmented_data/non_anomaly/Delivery10_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 17.742011547088623.
+vid num: 64
+
+Generating for augmented_data/non_anomaly/delivery003_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 14.521658420562744.
+vid num: 65
+
+Generating for augmented_data/non_anomaly/delivery005_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 21.752660989761353.
+vid num: 66
+
+Generating for augmented_data/non_anomaly/delivery002_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 23.262888193130493.
+vid num: 67
+
+Generating for augmented_data/non_anomaly/Delivery12_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 26.51340937614441.
+vid num: 68
+
+Generating for augmented_data/non_anomaly/MovingOut3_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 23.871471405029297.
+vid num: 69
+
+Generating for augmented_data/non_anomaly/Normal4_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (12, 10, 2048)
+done in 12.213979244232178.
+vid num: 70
+
+Generating for augmented_data/non_anomaly/Delivery5_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 26.344431400299072.
+vid num: 71
+
+Generating for augmented_data/non_anomaly/Normal7_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (9, 10, 2048)
+done in 10.346824169158936.
+vid num: 72
+
+Generating for augmented_data/non_anomaly/Delivery11_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (54, 10, 2048)
+done in 50.64121222496033.
+vid num: 73
+
+Generating for augmented_data/non_anomaly/Normal8_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 13.57919192314148.
+vid num: 74
+
+Generating for augmented_data/non_anomaly/Normal7_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (9, 10, 2048)
+done in 9.420884609222412.
+vid num: 75
+
+Generating for augmented_data/non_anomaly/Delivery13_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 28.502933502197266.
+vid num: 76
+
+Generating for augmented_data/non_anomaly/Delivery9_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 15.928784847259521.
+vid num: 77
+
+Generating for augmented_data/non_anomaly/MovingOut3_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 21.359565019607544.
+vid num: 78
+
+Generating for augmented_data/non_anomaly/Normal2_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 13.786950588226318.
+vid num: 79
+
+Generating for augmented_data/non_anomaly/Delivery12_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 28.1106698513031.
+vid num: 80
+
+Generating for augmented_data/non_anomaly/Delivery5_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 23.720439910888672.
+vid num: 81
+
+Generating for augmented_data/non_anomaly/delivery004_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.5104763507843.
+vid num: 82
+
+Generating for augmented_data/non_anomaly/Delivery3_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 19.257776021957397.
+vid num: 83
+
+Generating for augmented_data/non_anomaly/Animal1_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 24.87440848350525.
+vid num: 84
+
+Generating for augmented_data/non_anomaly/Delivery7_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 28.101746797561646.
+vid num: 85
+
+Generating for augmented_data/non_anomaly/delivery004_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 24.801305770874023.
+vid num: 86
+
+Generating for augmented_data/non_anomaly/Delivery8_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 32.17788124084473.
+vid num: 87
+
+Generating for augmented_data/non_anomaly/Normal5_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 13.949414730072021.
+vid num: 88
+
+Generating for augmented_data/non_anomaly/Delivery11_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (54, 10, 2048)
+done in 51.21378517150879.
+vid num: 89
+
+Generating for augmented_data/non_anomaly/Normal8_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 13.109253406524658.
+vid num: 90
+
+Generating for augmented_data/non_anomaly/delivery001_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 14.305918455123901.
+vid num: 91
+
+Generating for augmented_data/non_anomaly/delivery002_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 20.80405068397522.
+vid num: 92
+
+Generating for augmented_data/non_anomaly/Normal7_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (9, 10, 2048)
+done in 9.751290798187256.
+vid num: 93
+
+Generating for augmented_data/non_anomaly/Normal8_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 14.38847279548645.
+vid num: 94
+
+Generating for augmented_data/non_anomaly/Delivery3_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 18.258272886276245.
+vid num: 95
+
+Generating for augmented_data/non_anomaly/delivery002_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 23.070334672927856.
+vid num: 96
+
+Generating for augmented_data/non_anomaly/MovingOut3_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 23.41469120979309.
+vid num: 97
+
+Generating for augmented_data/non_anomaly/Delivery5_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.514371633529663.
+vid num: 98
+
+Generating for augmented_data/non_anomaly/Delivery8_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 30.254081964492798.
+vid num: 99
+
+Generating for augmented_data/non_anomaly/MovingOut2_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 22.547064542770386.
+vid num: 100
+
+Generating for augmented_data/non_anomaly/Normal4_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (12, 10, 2048)
+done in 13.02698802947998.
+vid num: 101
+
+Generating for augmented_data/non_anomaly/Delivery10_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 16.60554027557373.
+vid num: 102
+
+Generating for augmented_data/non_anomaly/Normal6_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 22.15899157524109.
+vid num: 103
+
+Generating for augmented_data/non_anomaly/Delivery10_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 16.410435676574707.
+vid num: 104
+
+Generating for augmented_data/non_anomaly/delivery001_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 14.708187818527222.
+vid num: 105
+
+Generating for augmented_data/non_anomaly/Delivery13_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 29.646373510360718.
+vid num: 106
+
+Generating for augmented_data/non_anomaly/Delivery9_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 18.18525767326355.
+vid num: 107
+
+Generating for augmented_data/non_anomaly/Normal5_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.445866107940674.
+vid num: 108
+
+Generating for augmented_data/non_anomaly/Normal5_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 14.467183589935303.
+vid num: 109
+
+Generating for augmented_data/non_anomaly/Delivery7_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 26.759214878082275.
+vid num: 110
+
+Generating for augmented_data/non_anomaly/Delivery8_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 30.36587142944336.
+vid num: 111
+
+Generating for augmented_data/non_anomaly/Animal2_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 21.914021968841553.
+vid num: 112
+
+Generating for augmented_data/non_anomaly/delivery004_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.907580614089966.
+vid num: 113
+
+Generating for augmented_data/non_anomaly/Delivery3_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 20.072319507598877.
+vid num: 114
+
+Generating for augmented_data/non_anomaly/Animal1_bright2.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 25.018524169921875.
+vid num: 115
+
+Generating for augmented_data/non_anomaly/Normal2_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 13.900455236434937.
+vid num: 116
+
+Generating for augmented_data/non_anomaly/Animal1_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 22.746187925338745.
+vid num: 117
+
+Generating for augmented_data/non_anomaly/Normal6_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 21.902835845947266.
+vid num: 118
+
+Generating for augmented_data/non_anomaly/Delivery12_bright3.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 29.394230604171753.
+vid num: 119
+
+Generating for augmented_data/non_anomaly/Delivery4_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 20.09289002418518.
+vid num: 120
+
+Generating for augmented_data/non_anomaly/delivery005_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 21.528586626052856.
+vid num: 121
+
+Generating for augmented_data/non_anomaly/MovingOut2_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 22.813969373703003.
+vid num: 122
+
+Generating for augmented_data/non_anomaly/delivery003_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 16.437331676483154.
+vid num: 123
+
+Generating for augmented_data/non_anomaly/Delivery7_flip_h.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 24.863460063934326.
+vid num: 124
+
+Generating for augmented_data/non_anomaly/Animal2_bright1.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 21.419333696365356.
+vid num: 125
+
+Generating for augmented_data/non_anomaly/Delivery4_flip_v.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 19.68995451927185.
+End

@@ -1,0 +1,175 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+Extract Features
+Received Pretrained model..
+vid num: 1
+
+Generating for train/non_anomaly_cropped/Animal1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (42, 10, 2048)
+done in 39.82279300689697.
+vid num: 2
+
+Generating for train/non_anomaly_cropped/Delivery3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 16.932448387145996.
+vid num: 3
+
+Generating for train/non_anomaly_cropped/Normal5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 13.220789194107056.
+vid num: 4
+
+Generating for train/non_anomaly_cropped/delivery002_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 21.894963026046753.
+vid num: 5
+
+Generating for train/non_anomaly_cropped/Normal8_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 13.039175271987915.
+vid num: 6
+
+Generating for train/non_anomaly_cropped/Normal7_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (15, 10, 2048)
+done in 14.404839038848877.
+vid num: 7
+
+Generating for train/non_anomaly_cropped/MovingOut2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 23.109861612319946.
+vid num: 8
+
+Generating for train/non_anomaly_cropped/Delivery8_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 27.84890341758728.
+vid num: 9
+
+Generating for train/non_anomaly_cropped/Delivery7_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 27.8482768535614.
+vid num: 10
+
+Generating for train/non_anomaly_cropped/Delivery13_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (31, 10, 2048)
+done in 28.83974027633667.
+vid num: 11
+
+Generating for train/non_anomaly_cropped/delivery004_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (31, 10, 2048)
+done in 28.51490020751953.
+vid num: 12
+
+Generating for train/non_anomaly_cropped/Delivery5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (31, 10, 2048)
+done in 28.83479070663452.
+vid num: 13
+
+Generating for train/non_anomaly_cropped/Delivery11_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (77, 10, 2048)
+done in 69.43361377716064.
+vid num: 14
+
+Generating for train/non_anomaly_cropped/Delivery12_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (29, 10, 2048)
+done in 27.323728799819946.
+vid num: 15
+
+Generating for train/non_anomaly_cropped/Delivery9_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (17, 10, 2048)
+done in 15.844828367233276.
+vid num: 16
+
+Generating for train/non_anomaly_cropped/Delivery10_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (16, 10, 2048)
+done in 15.062395811080933.
+vid num: 17
+
+Generating for train/non_anomaly_cropped/Delivery4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 27.21520733833313.
+vid num: 18
+
+Generating for train/non_anomaly_cropped/Normal2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (14, 10, 2048)
+done in 14.698961734771729.
+vid num: 19
+
+Generating for train/non_anomaly_cropped/delivery003_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (20, 10, 2048)
+done in 18.30452299118042.
+vid num: 20
+
+Generating for train/non_anomaly_cropped/Normal4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 13.002466440200806.
+vid num: 21
+
+Generating for train/non_anomaly_cropped/Animal2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (39, 10, 2048)
+done in 33.146865129470825.
+vid num: 22
+
+Generating for train/non_anomaly_cropped/MovingOut3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (24, 10, 2048)
+done in 21.066405773162842.
+vid num: 23
+
+Generating for train/non_anomaly_cropped/Normal6_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (23, 10, 2048)
+done in 20.025405168533325.
+vid num: 24
+
+Generating for train/non_anomaly_cropped/delivery001_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (15, 10, 2048)
+done in 13.672536134719849.
+End

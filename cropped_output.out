@@ -1,0 +1,175 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) libfabric/1.10.1     2) openmpi/4.0.3     3) ucx/1.8.0
+
+Extract Features
+Received Pretrained model..
+vid num: 1
+
+Generating for train/anomaly_cropped/Armed1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 20.67225980758667.
+vid num: 2
+
+Generating for train/anomaly_cropped/SuspiciousRun3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.227981328964233.
+vid num: 3
+
+Generating for train/anomaly_cropped/StayLong4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 21.968111515045166.
+vid num: 4
+
+Generating for train/anomaly_cropped/PackageTheft7_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 18.582855939865112.
+vid num: 5
+
+Generating for train/anomaly_cropped/Armed3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 26.37485647201538.
+vid num: 6
+
+Generating for train/anomaly_cropped/PackageTheft5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (19, 10, 2048)
+done in 17.590977430343628.
+vid num: 7
+
+Generating for train/anomaly_cropped/Sneak4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (18, 10, 2048)
+done in 16.626033306121826.
+vid num: 8
+
+Generating for train/anomaly_cropped/PackageTheft1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 26.594481229782104.
+vid num: 9
+
+Generating for train/anomaly_cropped/SuspiciousRun5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (35, 10, 2048)
+done in 32.2238552570343.
+vid num: 10
+
+Generating for train/anomaly_cropped/StayLong2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (37, 10, 2048)
+done in 34.01902198791504.
+vid num: 11
+
+Generating for train/anomaly_cropped/StayLong1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 24.632389783859253.
+vid num: 12
+
+Generating for train/anomaly_cropped/SuspiciousRun6_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (22, 10, 2048)
+done in 20.065145015716553.
+vid num: 13
+
+Generating for train/anomaly_cropped/Armed4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 18.60443663597107.
+vid num: 14
+
+Generating for train/anomaly_cropped/Sneak3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (21, 10, 2048)
+done in 18.370772123336792.
+vid num: 15
+
+Generating for train/anomaly_cropped/PackageTheft2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (28, 10, 2048)
+done in 24.312875270843506.
+vid num: 16
+
+Generating for train/anomaly_cropped/Armed6_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 25.918962955474854.
+vid num: 17
+
+Generating for train/anomaly_cropped/StayLong3_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (31, 10, 2048)
+done in 28.31926989555359.
+vid num: 18
+
+Generating for train/anomaly_cropped/SuspiciousRun4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (25, 10, 2048)
+done in 21.841573476791382.
+vid num: 19
+
+Generating for train/anomaly_cropped/Sneak1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (15, 10, 2048)
+done in 13.575478315353394.
+vid num: 20
+
+Generating for train/anomaly_cropped/theft1_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (36, 10, 2048)
+done in 30.61546516418457.
+vid num: 21
+
+Generating for train/anomaly_cropped/StayLong5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (30, 10, 2048)
+done in 25.591410398483276.
+vid num: 22
+
+Generating for train/anomaly_cropped/SuspiciousRun2_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.146147012710571.
+vid num: 23
+
+Generating for train/anomaly_cropped/PackageTheft4_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (20, 10, 2048)
+done in 18.85372042655945.
+vid num: 24
+
+Generating for train/anomaly_cropped/Sneak5_cropped.mp4
+Preprocessing done..
+batchsize 20
+Obtained features of size:  (13, 10, 2048)
+done in 12.124584436416626.
+End

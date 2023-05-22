@@ -25,7 +25,10 @@ def generate(datasetpath, outputpath, pretrainedpath, frequency, batch_size, sam
 	i3d = i3_res50(400, pretrainedpath)
 	i3d.cuda()
 	i3d.train(False)  # Set model to evaluate mode
+	count = 0
 	for video in videos:
+		count+=1
+		print(f'vid num: {count}\n')
 		videoname = video.split("/")[-1].split(".")[0]
 		startime = time.time()
 		print("Generating for {0}".format(video))
