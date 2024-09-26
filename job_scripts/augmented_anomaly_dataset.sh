@@ -3,10 +3,10 @@
 #SBATCH --gres=gpu:p100:1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=40G
-#SBATCH --time=2:00:00
+#SBATCH --time=3:00:00
 #SBATCH --mail-user=aisha.eldeeb.ubc@gmail.com
 #SBATCH --mail-type=ALL
-#SBATCH --output=aug_output2.out
+#SBATCH --output=aug_output.out
 
 root=/home/aishaeld/
 
@@ -18,5 +18,5 @@ module load intel/2020.1.217  cuda/11.4
 
 source $root/env3/bin/activate
 echo "Extract Features"
-python main.py --datasetpath=augmented_data/non_anomaly --outputpath=features_v3/non_anomaly
+python ../main.py --datasetpath=augmented_data/anomaly --outputpath=features_v3/anomaly
 echo "End"

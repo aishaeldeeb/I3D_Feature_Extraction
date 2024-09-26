@@ -18,5 +18,5 @@ module load intel/2020.1.217  cuda/11.4
 
 source $root/env3/bin/activate
 echo "Extract Features"
-python main.py --datasetpath=train/anomaly --outputpath=features_v3/anomaly
+python ../main.py --datasetpath=train/anomaly --outputpath=features_v3/anomaly
 echo "End"
