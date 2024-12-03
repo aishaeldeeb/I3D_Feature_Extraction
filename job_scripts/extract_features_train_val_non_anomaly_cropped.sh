@@ -1,12 +1,12 @@
 #!/bin/bash
 #SBATCH --account=def-panos
-#SBATCH --gres=gpu:p100:1
+#SBATCH --gres=gpu:a100_4g.20gb:1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=40G
 #SBATCH --time=72:00:00
 #SBATCH --mail-user=aisha.eldeeb.ubc@gmail.com
 #SBATCH --mail-type=ALL
-#SBATCH --output=train_val_anomaly_cropped_feature_extraction_output.out
+#SBATCH --output=train_val_non_anomaly_cropped_feature_extraction_output.out
 
 # Load required modules
 module load StdEnv/2020 cuda/11.4 cudnn/8.2.0 llvm/8 python/3.8 geos/3.8.1
@@ -54,8 +54,7 @@ extract_features() {
 }
 
 # Perform feature extraction for all datasets
-
-extract_features "$BASE_INPUT/train_val/anomaly_cropped" "$BASE_OUTPUT/train_val/anomaly_cropped"
+extract_features "$BASE_INPUT/train_val/non_anomaly_cropped" "$BASE_OUTPUT/train_val/non_anomaly_cropped"
 
 echo "Feature extraction completed!"
 

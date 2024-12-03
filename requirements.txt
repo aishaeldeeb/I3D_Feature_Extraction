@@ -1,6 +1,6 @@
 visdom
-ffmpeg-python
 numpy
 torch
 torchvision
 natsort
+ffmpeg
