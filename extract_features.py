@@ -61,8 +61,10 @@ def run(i3d, frequency, frames_dir, batch_size, sample_mode):
 
 	rgb_files = natsorted([i for i in os.listdir(frames_dir)])
 	frame_cnt = len(rgb_files)
-	# Cut frames
-	assert(frame_cnt > chunk_size)
+	if frame_cnt <= chunk_size:
+		print(f"Skipping {frames_dir}: Insufficient frames ({frame_cnt})")
+		return None
+
 	clipped_length = frame_cnt - chunk_size
 	clipped_length = (clipped_length // frequency) * frequency  # The start of last chunk
 	frame_indices = [] # Frames to chunks

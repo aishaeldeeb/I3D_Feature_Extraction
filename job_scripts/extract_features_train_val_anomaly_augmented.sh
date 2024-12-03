@@ -58,5 +58,4 @@ extract_features() {
 extract_features "$BASE_INPUT/train_val/anomaly_augmented" "$BASE_OUTPUT/train_val/anomaly_augmented"
 echo "Feature extraction completed!"
 
-# 
 

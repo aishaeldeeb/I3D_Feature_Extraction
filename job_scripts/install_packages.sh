@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --account=def-panos
-#SBATCH --gres=gpu:a100_4g.20gb:1   # Request 1 specific GPU type
+#SBATCH --gres=gpu:a100_4g.20gb:1   
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=8G
 #SBATCH --time=3:00:00
